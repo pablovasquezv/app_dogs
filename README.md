@@ -15,7 +15,7 @@ Lista de tecnologías pre-requisitos mínimos para que el proyecto funcione loca
 ## Recursos🎁
 -- Para ver la Url de la API y trabajar directamente, debes hacer click sobre el siguiente enlace. 
 
-https://my-json-server.typicode.com/mauricioponce/TDApi/plantas
+https://dog.ceo/dog-api/breeds-list
 
 #### README UPDATE
 * ***Juan Pablo Vásquez*** - *08-06-2024*
