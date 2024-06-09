@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">app_dogs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Toast">Favoritos Eliminados</string>
+    <!-- Strings used for fragments for navigation
+     <string name="action_settings">Eliminar favoritos</string>
+    <string name="first_fragment_label">Elije una Raza</string>
+    <string name="second_fragment_label">Selecciona tu Favorito</string>
+
+    -->
+    <string name="esFav">Es fav</string>
+    <string name="NoesFav">Ya no es fav</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet.
+    </string>
+</resources>
